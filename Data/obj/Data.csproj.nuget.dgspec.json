@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\back_gestion_actividades1\\Data\\Data.csproj": {}
+    "C:\\API_Gestion_Actividades\\Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\back_gestion_actividades1\\Data\\Data.csproj": {
+    "C:\\API_Gestion_Actividades\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\back_gestion_actividades1\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\API_Gestion_Actividades\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\back_gestion_actividades1\\Data\\Data.csproj",
+        "projectPath": "C:\\API_Gestion_Actividades\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\back_gestion_actividades1\\Data\\obj\\",
+        "outputPath": "C:\\API_Gestion_Actividades\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

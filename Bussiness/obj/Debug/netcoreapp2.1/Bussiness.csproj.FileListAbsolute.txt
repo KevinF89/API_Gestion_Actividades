@@ -9,3 +9,14 @@ C:\back_gestion_actividades\Bussiness\obj\Debug\netcoreapp2.1\Bussiness.Assembly
 C:\back_gestion_actividades\Bussiness\obj\Debug\netcoreapp2.1\Bussiness.csproj.CopyComplete
 C:\back_gestion_actividades\Bussiness\obj\Debug\netcoreapp2.1\Bussiness.dll
 C:\back_gestion_actividades\Bussiness\obj\Debug\netcoreapp2.1\Bussiness.pdb
+C:\API_Gestion_Actividades\Bussiness\bin\Debug\netcoreapp2.1\Bussiness.deps.json
+C:\API_Gestion_Actividades\Bussiness\bin\Debug\netcoreapp2.1\Bussiness.dll
+C:\API_Gestion_Actividades\Bussiness\bin\Debug\netcoreapp2.1\Bussiness.pdb
+C:\API_Gestion_Actividades\Bussiness\bin\Debug\netcoreapp2.1\Data.dll
+C:\API_Gestion_Actividades\Bussiness\bin\Debug\netcoreapp2.1\Data.pdb
+C:\API_Gestion_Actividades\Bussiness\obj\Debug\netcoreapp2.1\Bussiness.csprojAssemblyReference.cache
+C:\API_Gestion_Actividades\Bussiness\obj\Debug\netcoreapp2.1\Bussiness.AssemblyInfoInputs.cache
+C:\API_Gestion_Actividades\Bussiness\obj\Debug\netcoreapp2.1\Bussiness.AssemblyInfo.cs
+C:\API_Gestion_Actividades\Bussiness\obj\Debug\netcoreapp2.1\Bussiness.csproj.CopyComplete
+C:\API_Gestion_Actividades\Bussiness\obj\Debug\netcoreapp2.1\Bussiness.dll
+C:\API_Gestion_Actividades\Bussiness\obj\Debug\netcoreapp2.1\Bussiness.pdb
