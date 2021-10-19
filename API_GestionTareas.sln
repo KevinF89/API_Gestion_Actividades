@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API_GestionTareas", "API_GestionTareas\API_GestionTareas.csproj", "{360B9A56-6D1E-43E2-9EF1-763072EEC37D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bussiness", "Bussiness\Bussiness.csproj", "{5EB29CA7-EA94-47F7-AF8F-C8B6E6F71C64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bussiness", "Bussiness\Bussiness.csproj", "{5EB29CA7-EA94-47F7-AF8F-C8B6E6F71C64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{D889DA6D-4C76-465C-8F12-C7F40F53DBC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{D889DA6D-4C76-465C-8F12-C7F40F53DBC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_GestionTareasTest", "UnitTestProject1\Api_GestionTareasTest.csproj", "{04DADF05-B6E8-47F6-A97C-D0A304CABF16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D889DA6D-4C76-465C-8F12-C7F40F53DBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D889DA6D-4C76-465C-8F12-C7F40F53DBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D889DA6D-4C76-465C-8F12-C7F40F53DBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04DADF05-B6E8-47F6-A97C-D0A304CABF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DADF05-B6E8-47F6-A97C-D0A304CABF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DADF05-B6E8-47F6-A97C-D0A304CABF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DADF05-B6E8-47F6-A97C-D0A304CABF16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

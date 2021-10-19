@@ -9,7 +9,6 @@ C:\back_gestion_actividades\Data\obj\Debug\netcoreapp2.1\Data.csprojAssemblyRefe
 C:\API_Gestion_Actividades\Data\bin\Debug\netcoreapp2.1\Data.deps.json
 C:\API_Gestion_Actividades\Data\bin\Debug\netcoreapp2.1\Data.dll
 C:\API_Gestion_Actividades\Data\bin\Debug\netcoreapp2.1\Data.pdb
-C:\API_Gestion_Actividades\Data\obj\Debug\netcoreapp2.1\Data.csprojAssemblyReference.cache
 C:\API_Gestion_Actividades\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfoInputs.cache
 C:\API_Gestion_Actividades\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfo.cs
 C:\API_Gestion_Actividades\Data\obj\Debug\netcoreapp2.1\Data.dll
