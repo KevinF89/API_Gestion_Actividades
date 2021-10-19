@@ -1,0 +1,11 @@
+C:\back_gestion_actividades\Bussiness\bin\Debug\netcoreapp2.1\Bussiness.deps.json
+C:\back_gestion_actividades\Bussiness\bin\Debug\netcoreapp2.1\Bussiness.dll
+C:\back_gestion_actividades\Bussiness\bin\Debug\netcoreapp2.1\Bussiness.pdb
+C:\back_gestion_actividades\Bussiness\bin\Debug\netcoreapp2.1\Data.dll
+C:\back_gestion_actividades\Bussiness\bin\Debug\netcoreapp2.1\Data.pdb
+C:\back_gestion_actividades\Bussiness\obj\Debug\netcoreapp2.1\Bussiness.csprojAssemblyReference.cache
+C:\back_gestion_actividades\Bussiness\obj\Debug\netcoreapp2.1\Bussiness.AssemblyInfoInputs.cache
+C:\back_gestion_actividades\Bussiness\obj\Debug\netcoreapp2.1\Bussiness.AssemblyInfo.cs
+C:\back_gestion_actividades\Bussiness\obj\Debug\netcoreapp2.1\Bussiness.csproj.CopyComplete
+C:\back_gestion_actividades\Bussiness\obj\Debug\netcoreapp2.1\Bussiness.dll
+C:\back_gestion_actividades\Bussiness\obj\Debug\netcoreapp2.1\Bussiness.pdb
